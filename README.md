@@ -1,7 +1,6 @@
 # zunisha-e-commerce-backend
 
-Zunisha is a dummy e-commerce application created by Alif Ramdani. The purpose of this project is to learn and practice my MERN (MongoDB, ExpressJs, ReactJs, and NodeJs) stack skills. This project connected to MongoDb Atlas.
-
+Zunisha is an e-commerce application created by Alif Ramdani. This app is not real, the purpose of this project is to practice and improve my MERN (MongoDB, ExpressJs, ReactJs, and NodeJs) stack skills.
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/get-npm) to install zunisha-e-commerce-backend dependencies.
