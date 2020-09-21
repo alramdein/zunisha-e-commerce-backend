@@ -21,22 +21,22 @@ npm install -g nodemon
 nodemon server
 ```
 
-##Usage
+## Usage
 _*)Replace `<host>:<port>` to `localhost:5000` if you run it locally._
 
-###1. Get All Product API
+### 1. Get All Product API
 ```
 <host>:<port>/products/
 ```
-###2. Add products
+### 2. Add products
 ```
 <host>:<port>/products/add
 ```
 
-##Contributing
+## Contributing
 
 I'm open for any contribution. When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
-##Author
+## Author
 
 This project initiated by Alif Ramdani. Please kindly credit me if you want to use this project. Thanks
